@@ -20,4 +20,4 @@ Me chamo Lucas, tenho 18 anos e sou estudante de Análise e Desenvolvimento de S
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Lucas Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfribeiro&show_icons=true&theme=transparent)
