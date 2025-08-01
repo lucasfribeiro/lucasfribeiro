@@ -1,4 +1,4 @@
-<h2 align="left">Olá dev! Sou o lucas</h2>
+<h2 align="left">Olá dev! Sou o Lucas 👋</h2>
 
 ###
 
